@@ -4,10 +4,10 @@
 Приложение демонстрирует чистую архитектуру и паттерн MVVM.
 
 ## Визуализация
-![1]([G:\Programming\Dart\my_flutter_test\screens\1.png](https://github.com/eXTrimeXT/flutter_app_store/blob/main/screens/1.png))
-![2]([G:\Programming\Dart\my_flutter_test\screens\1.png](https://github.com/eXTrimeXT/flutter_app_store/blob/main/screens/2.png))
-![3]([G:\Programming\Dart\my_flutter_test\screens\1.png](https://github.com/eXTrimeXT/flutter_app_store/blob/main/screens/3.png))
-![4]([G:\Programming\Dart\my_flutter_test\screens\1.png](https://github.com/eXTrimeXT/flutter_app_store/blob/main/screens/4.png))
+![1](https://github.com/eXTrimeXT/flutter_app_store/blob/main/screens/1.png)
+![2](https://github.com/eXTrimeXT/flutter_app_store/blob/main/screens/2.png)
+![3](https://github.com/eXTrimeXT/flutter_app_store/blob/main/screens/3.png)
+![4](https://github.com/eXTrimeXT/flutter_app_store/blob/main/screens/4.png)
 ## Основные функции
 - Экран загрузки с анимацией
 - Интерактивный онбординг с переходом
